@@ -1,0 +1,31 @@
+name: scrna-variant-ml
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - pip
+  # bio / CLI tools
+  - star
+  - samtools
+  - bcftools
+  - bedtools
+  - htslib
+  - tabix
+  - pigz
+  - fastp
+  - fastqc
+  - multiqc
+  # python libs
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - scanpy
+  - anndata
+  - umap-learn
+  - leidenalg
+  - python-docx
+  - requests

@@ -1,0 +1,15 @@
+run,gsm,biosample,source_title,source_condition,legacy_condition,labels_agree,source_url
+SRR14762238,GSM5364333,SAMN19608534,Sc_Skin1,UWE,wound_edge,false,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176415
+SRR14762239,GSM5364333,SAMN19608534,Sc_Skin1,UWE,wound_edge,false,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176415
+SRR14762240,GSM5364334,SAMN19608533,Sc_Skin2,UWE,wound_edge,false,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176415
+SRR14762241,GSM5364334,SAMN19608533,Sc_Skin2,UWE,wound_edge,false,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176415
+SRR14762242,GSM5364335,SAMN19608532,Sc_Skin3,UWE,wound_edge,false,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176415
+SRR14762243,GSM5364335,SAMN19608532,Sc_Skin3,UWE,wound_edge,false,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176415
+SRR14762244,GSM5364336,SAMN19608531,Sc_Skin4,UWE,wound_edge,false,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176415
+SRR14762245,GSM5364336,SAMN19608531,Sc_Skin4,UWE,wound_edge,false,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176415
+SRR14762246,GSM5364337,SAMN19608530,Sc_W1,WE,unwounded_skin,false,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176415
+SRR14762247,GSM5364337,SAMN19608530,Sc_W1,WE,unwounded_skin,false,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176415
+SRR14762248,GSM5364338,SAMN19608529,Sc_W2,WE,unwounded_skin,false,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176415
+SRR14762250,GSM5364338,SAMN19608529,Sc_W2,WE,unwounded_skin,false,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176415
+SRR14762251,GSM5364339,SAMN19608528,Sc_W3,WE,unwounded_skin,false,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176415
+SRR14762252,GSM5364339,SAMN19608528,Sc_W3,WE,unwounded_skin,false,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176415

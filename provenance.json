@@ -1,0 +1,252 @@
+[
+  {
+    "file": "archive/metadata_samples_legacy.csv",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/metadata_samples.csv",
+    "sha256": "8f5d9751778fa4e639e0337787b8fa19a99b10776f81cd77252e842f00dcbf2c"
+  },
+  {
+    "file": "scripts/legacy/run_mutation_ml.py",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/repo/scripts/run_mutation_ml.py",
+    "sha256": "dd2d1550ea53012f5b1b0753ce10b48560f46312db47618d8f3763d30d0d7d03"
+  },
+  {
+    "file": "scripts/legacy/run_star_wsl.sh",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/repo/scripts/run_star_wsl.sh",
+    "sha256": "27253023981c48d96851b190bfb651ad50f056f49e3e61b69c378d44e3ef62cb"
+  },
+  {
+    "file": "scripts/legacy/build_star_index.sh",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/repo/scripts/build_star_index.sh",
+    "sha256": "b514f3f03dee1f8e2bf2d87fb6112fac9e4d6ee727d6236960e87585faa0b9eb"
+  },
+  {
+    "file": "scripts/legacy/run_bcftools_somatic_scrna.sh",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/repo/scripts/run_bcftools_somatic_scrna.sh",
+    "sha256": "d8dff9088711dd36b688431ca91bd3f8d99c79de8ec1480ae6de2b69abd5bde0"
+  },
+  {
+    "file": "scripts/legacy/build_cohort_common_regions.sh",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/repo/scripts/build_cohort_common_regions.sh",
+    "sha256": "8bbbcf898e856a8e55e12d74ff93be55362afd9593f98a17d2e31c0a13da03d7"
+  },
+  {
+    "file": "scripts/legacy/build_exon_bed.sh",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/repo/scripts/build_exon_bed.sh",
+    "sha256": "d87b823c5bae21fdb13b145ed2336114798f4710f6f85a6233b5b812907075db"
+  },
+  {
+    "file": "scripts/legacy/build_variant_gene_tables.sh",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/repo/scripts/build_variant_gene_tables.sh",
+    "sha256": "fe4bf801bf50aa0c8d55272ea1de943c1917f3bc2d74f46c66126a3cb9830228"
+  },
+  {
+    "file": "scripts/legacy/summarize_bcftools_sn.py",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/repo/scripts/summarize_bcftools_sn.py",
+    "sha256": "b4657f766bd9e581c19517b71f0e9d2895daaa6700399e64f92016b2b6083a96"
+  },
+  {
+    "file": "scripts/legacy/run_expression_scanpy.py",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/repo/scripts/run_expression_scanpy.py",
+    "sha256": "a89be2f9b54305c1ea8357c19333c98d08c73cf134ea550f99687f3060af16e3"
+  },
+  {
+    "file": "scripts/legacy/integrate_mutation_expression.py",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/repo/scripts/integrate_mutation_expression.py",
+    "sha256": "68960c08595e0e7950421f8f5a841fe94df43d117e80d0c60cfe9f8a705f19ba"
+  },
+  {
+    "file": "scripts/legacy/run_enrich_gene_sets.py",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/repo/scripts/run_enrich_gene_sets.py",
+    "sha256": "6d538d91e717b6a8d6566e0f1157926ddaf3958959f3182c5c6d7214f6356e60"
+  },
+  {
+    "file": "scripts/legacy/run_enrichment_gprofiler.py",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/repo/scripts/run_enrichment_gprofiler.py",
+    "sha256": "409350a8ecf7669b4d85ce60ad6d6ea73f2fec622180ad1eadc0b1058ab99277"
+  },
+  {
+    "file": "archive/requirements-wsl.txt",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/repo/requirements-wsl.txt",
+    "sha256": "20c6d81ee2bb9233c70726c6ec80537148d426205d4dab84581015226078800e"
+  },
+  {
+    "file": "archive/environment.yml",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/repo/environment.yml",
+    "sha256": "9f8dda0d7025538900dc2e920aef3d9deceaf8ec8d8965b2d1b3a2526bcfb3c8"
+  },
+  {
+    "file": "archive/baseline/gene_matrix.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/ml/gene_matrix.csv",
+    "sha256": "054018de6a2c15d7e449e8f6905904e73ef52d6cef5af8911416394027eefd79"
+  },
+  {
+    "file": "archive/baseline/supervised_metrics.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/ml/supervised_metrics.csv",
+    "sha256": "fc9bdf2c44543adbd5bcdb4f01e141006e7c5241ae99031d50da1e35349c3d13"
+  },
+  {
+    "file": "archive/baseline/supervised_metrics_repeated.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/ml/supervised_metrics_repeated.csv",
+    "sha256": "71091c4b2be5383868265dc0ea8a536924371d9e204bbd17f71709b4f39198c0"
+  },
+  {
+    "file": "archive/baseline/baseline_qc_metrics.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/ml/baseline_qc_metrics.csv",
+    "sha256": "a55eedffce803a847d49cb3bc3cfbe85c544d0f3916dabe62dd58dad7f7c022b"
+  },
+  {
+    "file": "archive/baseline/pca_coords.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/ml/pca_coords.csv",
+    "sha256": "100ff4a87a2ab464f60bf5aee217aaba3cda9ddc3f516e3bcd47e126a3f48117"
+  },
+  {
+    "file": "archive/baseline/pca_explained_variance.txt",
+    "source": "somatic_scRNA_mutation_analysis/results/ml/pca_explained_variance.txt",
+    "sha256": "4cabe381de29c70b1b1667316b37a232c5321dbc9ea3e654952630b91eec87b2"
+  },
+  {
+    "file": "archive/baseline/logreg_top_genes.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/ml/logreg_top_genes.csv",
+    "sha256": "cc9e8fd422da13e92098f4840fc9fa75333e06b432b74d829b9fcc5fcb6ec156"
+  },
+  {
+    "file": "archive/baseline/permutation_test.txt",
+    "source": "somatic_scRNA_mutation_analysis/results/ml/permutation_test.txt",
+    "sha256": "40a88df9e00a8c166bd01605117b6566c7924841aec4a03e7cf38fd7a35c4626"
+  },
+  {
+    "file": "archive/baseline/permutation_scores.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/ml/permutation_scores.csv",
+    "sha256": "b8a97baf115fb8da971178cf82953a3eaec140915b56eddec6121c73727d5735"
+  },
+  {
+    "file": "archive/cohort/gene_matrix.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/ml_cohort/gene_matrix.csv",
+    "sha256": "53ac8c1dc36a822efad78c1e8ec5ea4ec7979c7e5f75a8ba141640368ff092ae"
+  },
+  {
+    "file": "archive/cohort/supervised_metrics.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/ml_cohort/supervised_metrics.csv",
+    "sha256": "c855674e8e4e21bb8e2570d4c9d06e6f98f03e0812a1d87a35747ff34325c5d6"
+  },
+  {
+    "file": "archive/cohort/supervised_metrics_repeated.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/ml_cohort/supervised_metrics_repeated.csv",
+    "sha256": "6bf75f1cafe3a6f478fe2c85b33b9c2d6c78ba8e2b5aa8c7c1c5eeebf092a906"
+  },
+  {
+    "file": "archive/cohort/baseline_qc_metrics.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/ml_cohort/baseline_qc_metrics.csv",
+    "sha256": "a55eedffce803a847d49cb3bc3cfbe85c544d0f3916dabe62dd58dad7f7c022b"
+  },
+  {
+    "file": "archive/cohort/pca_coords.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/ml_cohort/pca_coords.csv",
+    "sha256": "450d4bf5da4a029104cd07c09db3f1ef50b7a471679c7165ef6d94b4009b04ab"
+  },
+  {
+    "file": "archive/cohort/pca_explained_variance.txt",
+    "source": "somatic_scRNA_mutation_analysis/results/ml_cohort/pca_explained_variance.txt",
+    "sha256": "c89eb80ce1e9b79369262308851c1689f8129655f47d6419538338e072791490"
+  },
+  {
+    "file": "archive/cohort/logreg_top_genes.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/ml_cohort/logreg_top_genes.csv",
+    "sha256": "9f2f0b94b093e58bf8c6fdd8e277e06bdc8c43cc58f230c5b1f116c1bc36273c"
+  },
+  {
+    "file": "archive/cohort/permutation_test.txt",
+    "source": "somatic_scRNA_mutation_analysis/results/ml_cohort/permutation_test.txt",
+    "sha256": "d323e3bfa96fa99edc0773fa86e9e62b3d8d05cdea88a7a17bf12f75f8d3cdaa"
+  },
+  {
+    "file": "archive/cohort/permutation_scores.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/ml_cohort/permutation_scores.csv",
+    "sha256": "fbd970017b9f139824516e745af9d88638baa50247b460daa952acb643b768a2"
+  },
+  {
+    "file": "supplementary/tables/bcftools_sn.filtered.csv",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/bcftools_sn.filtered.csv",
+    "sha256": "d4c5bce4a7618e9dbefeb3b283337159f671101ea9b4d5819afa509deb712b21"
+  },
+  {
+    "file": "supplementary/tables/bcftools_sn.filtered_novel_cohort.csv",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/bcftools_sn.filtered_novel_cohort.csv",
+    "sha256": "a478d14d95d7cddcb80741f109557e63a6d91e8529a321c7ef305f65efb8ebc9"
+  },
+  {
+    "file": "supplementary/tables/ml_supervised_metrics_repeated_baseline.csv",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/ml_supervised_metrics_repeated_baseline.csv",
+    "sha256": "daf5fbfa68f85a0dbbf399695fda70ffe73ab06a8d850a216a2e03ab7f8565ed"
+  },
+  {
+    "file": "supplementary/tables/ml_supervised_metrics_repeated_cohort.csv",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/ml_supervised_metrics_repeated_cohort.csv",
+    "sha256": "99fe1343b885c2ee406dd35e467df04162538f7e039fc2b950d8e47147d67a76"
+  },
+  {
+    "file": "supplementary/tables/ml_baseline_qc_metrics_baseline.csv",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/ml_baseline_qc_metrics_baseline.csv",
+    "sha256": "a55eedffce803a847d49cb3bc3cfbe85c544d0f3916dabe62dd58dad7f7c022b"
+  },
+  {
+    "file": "supplementary/tables/ml_baseline_qc_metrics_cohort.csv",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/ml_baseline_qc_metrics_cohort.csv",
+    "sha256": "a55eedffce803a847d49cb3bc3cfbe85c544d0f3916dabe62dd58dad7f7c022b"
+  },
+  {
+    "file": "supplementary/tables/ml_permutation_test_baseline.txt",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/ml_permutation_test_baseline.txt",
+    "sha256": "40a88df9e00a8c166bd01605117b6566c7924841aec4a03e7cf38fd7a35c4626"
+  },
+  {
+    "file": "supplementary/tables/ml_permutation_test_cohort.txt",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/ml_permutation_test_cohort.txt",
+    "sha256": "d323e3bfa96fa99edc0773fa86e9e62b3d8d05cdea88a7a17bf12f75f8d3cdaa"
+  },
+  {
+    "file": "supplementary/tables/gene_sets_summary.csv",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/gene_sets_summary.csv",
+    "sha256": "a98d8a7d6bb221a02e944dbfad5b828736ba10e3b4d03b5fc23ae1aaebcfd1c3"
+  },
+  {
+    "file": "supplementary/tables/cluster_celltype_annotations.csv",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/cluster_celltype_annotations.csv",
+    "sha256": "4c0fe8fdee54f3ffdb1b7a6caf92a4f83ef45fa158e2356ffe73f2d55f067b21"
+  },
+  {
+    "file": "supplementary/tables/cluster_celltype_predictions.csv",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/cluster_celltype_predictions.csv",
+    "sha256": "feb46a7f291a6ebb68a2622e59062baa5d9276ad285db67e7215fafcbd1dad95"
+  },
+  {
+    "file": "supplementary/tables/cluster_marker_names.csv",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/cluster_marker_names.csv",
+    "sha256": "4f072352eea030daf44c781ae299bd50fc080f02fa5dfc314bf222cca108917f"
+  },
+  {
+    "file": "supplementary/tables/expression_top_markers_by_cluster.csv",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/expression_top_markers_by_cluster.csv",
+    "sha256": "5665251ae24b31aca2bbb1f12d4d64f7067e0da0356ba39887cad0fb53a88ba4"
+  },
+  {
+    "file": "supplementary/tables/logreg_top_genes_cohort.csv",
+    "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/logreg_top_genes_cohort.csv",
+    "sha256": "9f2f0b94b093e58bf8c6fdd8e277e06bdc8c43cc58f230c5b1f116c1bc36273c"
+  },
+  {
+    "file": "supplementary/enrichment/top_mutated_genes/enrichment_results.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/enrichment/top_mutated_genes/enrichment_results.csv",
+    "sha256": "e7704c422523416a62a489c54ea80ce476ac50fb653a8b35488ec754d9cb3d39"
+  },
+  {
+    "file": "supplementary/enrichment/unwounded_skin_higher_mutation_burden/enrichment_results.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/enrichment/unwounded_skin_higher_mutation_burden/enrichment_results.csv",
+    "sha256": "993238399bb352281518b7800ff15c4fd810aa810206a83d9a49dfa4d5656f30"
+  },
+  {
+    "file": "supplementary/enrichment/wound_edge_higher_mutation_burden/enrichment_results.csv",
+    "source": "somatic_scRNA_mutation_analysis/results/enrichment/wound_edge_higher_mutation_burden/enrichment_results.csv",
+    "sha256": "43700427dbff72e0c4e21a65980a4f9aa10de79d2249add4c70f47c045e5f495"
+  }
+]

@@ -1,0 +1,5 @@
+# This repo recommends micromamba for a single reproducible environment:
+#   bash scripts/install_micromamba_env.sh
+#   micromamba activate scrna-variant-ml
+#
+# If you prefer apt/pip, see: docs/INSTALL_WSL.md

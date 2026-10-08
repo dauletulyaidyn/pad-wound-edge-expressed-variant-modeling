@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+qa/
+*.bam
+*.fastq*
+*.vcf*

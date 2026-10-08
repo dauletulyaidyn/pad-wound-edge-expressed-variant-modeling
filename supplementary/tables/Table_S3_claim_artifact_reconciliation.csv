@@ -1,0 +1,7 @@
+quantity,manuscript,source_artifact,status
+Linear SVC balanced accuracy,pooled .980; mean-fold approximately .97,0.98 +/- 0.09797958971132711,Summary aggregations differ; no matching fold predictions identified.
+Biological replication and conditions,14 runs / 7 biological samples,7 GEO samples: 4 unwounded / 3 wound; 14 runs: 8 UWE / 6 WE,Legacy labels conflict with source-derived labels; reported analyses require relabeling and grouped reevaluation.
+PCA two-component explained variance (cohort),53.6%,"explained_variance_ratio: [0.14680091962672534, 0.1397568371337425]",Archive is a different or unreconciled analysis version.
+Signed model coefficients,Logistic regression: COL1A1 2.684; THBS1 2.215,archive/cohort/logreg_top_genes.csv,"Saved coefficient table is logistic regression, and does not reproduce the manuscript ranking/scale."
+Hyperparameter evaluation,Repeated stratified CV with training-fold preprocessing,scripts/legacy/run_mutation_ml.py,Fixed model settings; no inner search in archived code. Cohort-frequency filtering is global; runs are not grouped.
+Pooled predictions / model-specific permutation tests,Pooled five-model metrics and model-specific permutation tests,Only aggregate CV tables and a single logistic-regression permutation test found in selected source package,Pooled predictions cannot be reconstructed from summary tables; unavailable outputs are not fabricated.
