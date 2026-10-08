@@ -165,87 +165,87 @@
     "sha256": "fbd970017b9f139824516e745af9d88638baa50247b460daa952acb643b768a2"
   },
   {
-    "file": "supplementary/tables/bcftools_sn.filtered.csv",
+    "file": "archive/submission_excluded/tables/bcftools_sn.filtered.csv",
     "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/bcftools_sn.filtered.csv",
     "sha256": "d4c5bce4a7618e9dbefeb3b283337159f671101ea9b4d5819afa509deb712b21"
   },
   {
-    "file": "supplementary/tables/bcftools_sn.filtered_novel_cohort.csv",
+    "file": "archive/submission_excluded/tables/bcftools_sn.filtered_novel_cohort.csv",
     "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/bcftools_sn.filtered_novel_cohort.csv",
     "sha256": "a478d14d95d7cddcb80741f109557e63a6d91e8529a321c7ef305f65efb8ebc9"
   },
   {
-    "file": "supplementary/tables/ml_supervised_metrics_repeated_baseline.csv",
+    "file": "archive/submission_excluded/tables/ml_supervised_metrics_repeated_baseline.csv",
     "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/ml_supervised_metrics_repeated_baseline.csv",
     "sha256": "daf5fbfa68f85a0dbbf399695fda70ffe73ab06a8d850a216a2e03ab7f8565ed"
   },
   {
-    "file": "supplementary/tables/ml_supervised_metrics_repeated_cohort.csv",
+    "file": "archive/submission_excluded/tables/ml_supervised_metrics_repeated_cohort.csv",
     "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/ml_supervised_metrics_repeated_cohort.csv",
     "sha256": "99fe1343b885c2ee406dd35e467df04162538f7e039fc2b950d8e47147d67a76"
   },
   {
-    "file": "supplementary/tables/ml_baseline_qc_metrics_baseline.csv",
+    "file": "archive/submission_excluded/tables/ml_baseline_qc_metrics_baseline.csv",
     "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/ml_baseline_qc_metrics_baseline.csv",
     "sha256": "a55eedffce803a847d49cb3bc3cfbe85c544d0f3916dabe62dd58dad7f7c022b"
   },
   {
-    "file": "supplementary/tables/ml_baseline_qc_metrics_cohort.csv",
+    "file": "archive/submission_excluded/tables/ml_baseline_qc_metrics_cohort.csv",
     "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/ml_baseline_qc_metrics_cohort.csv",
     "sha256": "a55eedffce803a847d49cb3bc3cfbe85c544d0f3916dabe62dd58dad7f7c022b"
   },
   {
-    "file": "supplementary/tables/ml_permutation_test_baseline.txt",
+    "file": "archive/submission_excluded/tables/ml_permutation_test_baseline.txt",
     "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/ml_permutation_test_baseline.txt",
     "sha256": "40a88df9e00a8c166bd01605117b6566c7924841aec4a03e7cf38fd7a35c4626"
   },
   {
-    "file": "supplementary/tables/ml_permutation_test_cohort.txt",
+    "file": "archive/submission_excluded/tables/ml_permutation_test_cohort.txt",
     "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/ml_permutation_test_cohort.txt",
     "sha256": "d323e3bfa96fa99edc0773fa86e9e62b3d8d05cdea88a7a17bf12f75f8d3cdaa"
   },
   {
-    "file": "supplementary/tables/gene_sets_summary.csv",
+    "file": "archive/submission_excluded/tables/gene_sets_summary.csv",
     "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/gene_sets_summary.csv",
     "sha256": "a98d8a7d6bb221a02e944dbfad5b828736ba10e3b4d03b5fc23ae1aaebcfd1c3"
   },
   {
-    "file": "supplementary/tables/cluster_celltype_annotations.csv",
+    "file": "archive/submission_excluded/tables/cluster_celltype_annotations.csv",
     "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/cluster_celltype_annotations.csv",
     "sha256": "4c0fe8fdee54f3ffdb1b7a6caf92a4f83ef45fa158e2356ffe73f2d55f067b21"
   },
   {
-    "file": "supplementary/tables/cluster_celltype_predictions.csv",
+    "file": "archive/submission_excluded/tables/cluster_celltype_predictions.csv",
     "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/cluster_celltype_predictions.csv",
     "sha256": "feb46a7f291a6ebb68a2622e59062baa5d9276ad285db67e7215fafcbd1dad95"
   },
   {
-    "file": "supplementary/tables/cluster_marker_names.csv",
+    "file": "archive/submission_excluded/tables/cluster_marker_names.csv",
     "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/cluster_marker_names.csv",
     "sha256": "4f072352eea030daf44c781ae299bd50fc080f02fa5dfc314bf222cca108917f"
   },
   {
-    "file": "supplementary/tables/expression_top_markers_by_cluster.csv",
+    "file": "archive/submission_excluded/tables/expression_top_markers_by_cluster.csv",
     "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/expression_top_markers_by_cluster.csv",
     "sha256": "5665251ae24b31aca2bbb1f12d4d64f7067e0da0356ba39887cad0fb53a88ba4"
   },
   {
-    "file": "supplementary/tables/logreg_top_genes_cohort.csv",
+    "file": "archive/submission_excluded/tables/logreg_top_genes_cohort.csv",
     "source": "PAD_scRNA_variant_ML_paper_Q2_20251228/tables/logreg_top_genes_cohort.csv",
     "sha256": "9f2f0b94b093e58bf8c6fdd8e277e06bdc8c43cc58f230c5b1f116c1bc36273c"
   },
   {
-    "file": "supplementary/enrichment/top_mutated_genes/enrichment_results.csv",
+    "file": "archive/submission_excluded/enrichment/top_mutated_genes/enrichment_results.csv",
     "source": "somatic_scRNA_mutation_analysis/results/enrichment/top_mutated_genes/enrichment_results.csv",
     "sha256": "e7704c422523416a62a489c54ea80ce476ac50fb653a8b35488ec754d9cb3d39"
   },
   {
-    "file": "supplementary/enrichment/unwounded_skin_higher_mutation_burden/enrichment_results.csv",
+    "file": "archive/submission_excluded/enrichment/unwounded_skin_higher_mutation_burden/enrichment_results.csv",
     "source": "somatic_scRNA_mutation_analysis/results/enrichment/unwounded_skin_higher_mutation_burden/enrichment_results.csv",
     "sha256": "993238399bb352281518b7800ff15c4fd810aa810206a83d9a49dfa4d5656f30"
   },
   {
-    "file": "supplementary/enrichment/wound_edge_higher_mutation_burden/enrichment_results.csv",
+    "file": "archive/submission_excluded/enrichment/wound_edge_higher_mutation_burden/enrichment_results.csv",
     "source": "somatic_scRNA_mutation_analysis/results/enrichment/wound_edge_higher_mutation_burden/enrichment_results.csv",
     "sha256": "43700427dbff72e0c4e21a65980a4f9aa10de79d2249add4c70f47c045e5f495"
   }
