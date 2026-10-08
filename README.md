@@ -2,7 +2,7 @@
 
 Wound-edge expressed-variant modeling, pathway interpretation and cellular context.
 
-Article-specific research support repository, version 1.0.0.
+Article-specific research support repository, version 1.0.1.
 
 **Status: historical source-artifact package; manuscript numerical results are not independently reproduced.**
 
@@ -39,3 +39,9 @@ Derived from local PAD source materials. Original general project: https://githu
 - [PRJNA736095](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA736095)
 
 No manuscript is published here. Code/data licensing has not been newly assigned; consult original owners and source terms.
+
+## Journal and supplied template
+
+Target: [Herald of KBTU](https://vestnik.kbtu.edu.kz/jour/about/submissions#authorGuidelines). Article/template number: 2. Supplied template: `2. шаблон_Econ and bus paper_template.docx + 2. шаблон_Author details_in 3 languages.docx`. The earlier ETASR/MDPI appearance came from preliminary manuscript files and is not the journal destination. The corrected local manuscripts retain the supplied filled journal versions and now cite this support repository and its supplementary package.
+
+See `JOURNAL_ALIGNMENT.md` for boundaries and submission-file handling.
