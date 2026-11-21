@@ -1,0 +1,365 @@
+measure,run_a,run_b,title_a,title_b,pair_class,value
+PASS-locus Jaccard,SRR14762238,SRR14762239,Sc_Skin1,Sc_Skin1,within donor,0.2558505037839164
+PASS-locus Jaccard,SRR14762238,SRR14762240,Sc_Skin1,Sc_Skin2,"between donors, same condition",0.0539196432988795
+PASS-locus Jaccard,SRR14762238,SRR14762241,Sc_Skin1,Sc_Skin2,"between donors, same condition",0.0537450470686217
+PASS-locus Jaccard,SRR14762238,SRR14762242,Sc_Skin1,Sc_Skin3,"between donors, same condition",0.071214333527425
+PASS-locus Jaccard,SRR14762238,SRR14762243,Sc_Skin1,Sc_Skin3,"between donors, same condition",0.071164045229054
+PASS-locus Jaccard,SRR14762238,SRR14762244,Sc_Skin1,Sc_Skin4,"between donors, same condition",0.0496564605665902
+PASS-locus Jaccard,SRR14762238,SRR14762245,Sc_Skin1,Sc_Skin4,"between donors, same condition",0.0492884603905564
+PASS-locus Jaccard,SRR14762238,SRR14762246,Sc_Skin1,Sc_W1,"between donors, different condition",0.0860768777175939
+PASS-locus Jaccard,SRR14762238,SRR14762247,Sc_Skin1,Sc_W1,"between donors, different condition",0.0861104307063653
+PASS-locus Jaccard,SRR14762238,SRR14762248,Sc_Skin1,Sc_W2,"between donors, different condition",0.1462828569319605
+PASS-locus Jaccard,SRR14762238,SRR14762250,Sc_Skin1,Sc_W2,"between donors, different condition",0.145167708337642
+PASS-locus Jaccard,SRR14762238,SRR14762251,Sc_Skin1,Sc_W3,"between donors, different condition",0.0785581664112213
+PASS-locus Jaccard,SRR14762238,SRR14762252,Sc_Skin1,Sc_W3,"between donors, different condition",0.0787114501280195
+PASS-locus Jaccard,SRR14762239,SRR14762240,Sc_Skin1,Sc_Skin2,"between donors, same condition",0.0537747204107976
+PASS-locus Jaccard,SRR14762239,SRR14762241,Sc_Skin1,Sc_Skin2,"between donors, same condition",0.0537617890210131
+PASS-locus Jaccard,SRR14762239,SRR14762242,Sc_Skin1,Sc_Skin3,"between donors, same condition",0.0713210664013622
+PASS-locus Jaccard,SRR14762239,SRR14762243,Sc_Skin1,Sc_Skin3,"between donors, same condition",0.0711159895373327
+PASS-locus Jaccard,SRR14762239,SRR14762244,Sc_Skin1,Sc_Skin4,"between donors, same condition",0.0495177739438585
+PASS-locus Jaccard,SRR14762239,SRR14762245,Sc_Skin1,Sc_Skin4,"between donors, same condition",0.0494735131708278
+PASS-locus Jaccard,SRR14762239,SRR14762246,Sc_Skin1,Sc_W1,"between donors, different condition",0.085845126923559
+PASS-locus Jaccard,SRR14762239,SRR14762247,Sc_Skin1,Sc_W1,"between donors, different condition",0.0855018894759908
+PASS-locus Jaccard,SRR14762239,SRR14762248,Sc_Skin1,Sc_W2,"between donors, different condition",0.1457435515280189
+PASS-locus Jaccard,SRR14762239,SRR14762250,Sc_Skin1,Sc_W2,"between donors, different condition",0.1447161486908345
+PASS-locus Jaccard,SRR14762239,SRR14762251,Sc_Skin1,Sc_W3,"between donors, different condition",0.0784181923153666
+PASS-locus Jaccard,SRR14762239,SRR14762252,Sc_Skin1,Sc_W3,"between donors, different condition",0.078300404064938
+PASS-locus Jaccard,SRR14762240,SRR14762241,Sc_Skin2,Sc_Skin2,within donor,0.1874231968073278
+PASS-locus Jaccard,SRR14762240,SRR14762242,Sc_Skin2,Sc_Skin3,"between donors, same condition",0.0644234326140187
+PASS-locus Jaccard,SRR14762240,SRR14762243,Sc_Skin2,Sc_Skin3,"between donors, same condition",0.0644764928518897
+PASS-locus Jaccard,SRR14762240,SRR14762244,Sc_Skin2,Sc_Skin4,"between donors, same condition",0.058839891246406
+PASS-locus Jaccard,SRR14762240,SRR14762245,Sc_Skin2,Sc_Skin4,"between donors, same condition",0.0588938564961131
+PASS-locus Jaccard,SRR14762240,SRR14762246,Sc_Skin2,Sc_W1,"between donors, different condition",0.0477413493288525
+PASS-locus Jaccard,SRR14762240,SRR14762247,Sc_Skin2,Sc_W1,"between donors, different condition",0.0476022678239732
+PASS-locus Jaccard,SRR14762240,SRR14762248,Sc_Skin2,Sc_W2,"between donors, different condition",0.0663126167013606
+PASS-locus Jaccard,SRR14762240,SRR14762250,Sc_Skin2,Sc_W2,"between donors, different condition",0.0662349923533102
+PASS-locus Jaccard,SRR14762240,SRR14762251,Sc_Skin2,Sc_W3,"between donors, different condition",0.0633171663494377
+PASS-locus Jaccard,SRR14762240,SRR14762252,Sc_Skin2,Sc_W3,"between donors, different condition",0.0629204614998972
+PASS-locus Jaccard,SRR14762241,SRR14762242,Sc_Skin2,Sc_Skin3,"between donors, same condition",0.0646324453352093
+PASS-locus Jaccard,SRR14762241,SRR14762243,Sc_Skin2,Sc_Skin3,"between donors, same condition",0.0645963608405945
+PASS-locus Jaccard,SRR14762241,SRR14762244,Sc_Skin2,Sc_Skin4,"between donors, same condition",0.0587808254481493
+PASS-locus Jaccard,SRR14762241,SRR14762245,Sc_Skin2,Sc_Skin4,"between donors, same condition",0.058696782246215
+PASS-locus Jaccard,SRR14762241,SRR14762246,Sc_Skin2,Sc_W1,"between donors, different condition",0.0477008268846684
+PASS-locus Jaccard,SRR14762241,SRR14762247,Sc_Skin2,Sc_W1,"between donors, different condition",0.0475421794456769
+PASS-locus Jaccard,SRR14762241,SRR14762248,Sc_Skin2,Sc_W2,"between donors, different condition",0.0659624848170905
+PASS-locus Jaccard,SRR14762241,SRR14762250,Sc_Skin2,Sc_W2,"between donors, different condition",0.0661689756899691
+PASS-locus Jaccard,SRR14762241,SRR14762251,Sc_Skin2,Sc_W3,"between donors, different condition",0.0627860485501406
+PASS-locus Jaccard,SRR14762241,SRR14762252,Sc_Skin2,Sc_W3,"between donors, different condition",0.0627895161700037
+PASS-locus Jaccard,SRR14762242,SRR14762243,Sc_Skin3,Sc_Skin3,within donor,0.2184183853123802
+PASS-locus Jaccard,SRR14762242,SRR14762244,Sc_Skin3,Sc_Skin4,"between donors, same condition",0.0611519544466007
+PASS-locus Jaccard,SRR14762242,SRR14762245,Sc_Skin3,Sc_Skin4,"between donors, same condition",0.0609778473724414
+PASS-locus Jaccard,SRR14762242,SRR14762246,Sc_Skin3,Sc_W1,"between donors, different condition",0.0635220319430845
+PASS-locus Jaccard,SRR14762242,SRR14762247,Sc_Skin3,Sc_W1,"between donors, different condition",0.063642694779666
+PASS-locus Jaccard,SRR14762242,SRR14762248,Sc_Skin3,Sc_W2,"between donors, different condition",0.0854455303638836
+PASS-locus Jaccard,SRR14762242,SRR14762250,Sc_Skin3,Sc_W2,"between donors, different condition",0.085293638314934
+PASS-locus Jaccard,SRR14762242,SRR14762251,Sc_Skin3,Sc_W3,"between donors, different condition",0.0773919720547912
+PASS-locus Jaccard,SRR14762242,SRR14762252,Sc_Skin3,Sc_W3,"between donors, different condition",0.0775341315763533
+PASS-locus Jaccard,SRR14762243,SRR14762244,Sc_Skin3,Sc_Skin4,"between donors, same condition",0.061457479552866
+PASS-locus Jaccard,SRR14762243,SRR14762245,Sc_Skin3,Sc_Skin4,"between donors, same condition",0.0611548313259578
+PASS-locus Jaccard,SRR14762243,SRR14762246,Sc_Skin3,Sc_W1,"between donors, different condition",0.0636922525767774
+PASS-locus Jaccard,SRR14762243,SRR14762247,Sc_Skin3,Sc_W1,"between donors, different condition",0.063324032652214
+PASS-locus Jaccard,SRR14762243,SRR14762248,Sc_Skin3,Sc_W2,"between donors, different condition",0.0853684573113906
+PASS-locus Jaccard,SRR14762243,SRR14762250,Sc_Skin3,Sc_W2,"between donors, different condition",0.084876370254762
+PASS-locus Jaccard,SRR14762243,SRR14762251,Sc_Skin3,Sc_W3,"between donors, different condition",0.0778754747670063
+PASS-locus Jaccard,SRR14762243,SRR14762252,Sc_Skin3,Sc_W3,"between donors, different condition",0.0778803139115864
+PASS-locus Jaccard,SRR14762244,SRR14762245,Sc_Skin4,Sc_Skin4,within donor,0.2570781363296553
+PASS-locus Jaccard,SRR14762244,SRR14762246,Sc_Skin4,Sc_W1,"between donors, different condition",0.0535989560693636
+PASS-locus Jaccard,SRR14762244,SRR14762247,Sc_Skin4,Sc_W1,"between donors, different condition",0.0533989201022153
+PASS-locus Jaccard,SRR14762244,SRR14762248,Sc_Skin4,Sc_W2,"between donors, different condition",0.0644103750376288
+PASS-locus Jaccard,SRR14762244,SRR14762250,Sc_Skin4,Sc_W2,"between donors, different condition",0.0642577089763976
+PASS-locus Jaccard,SRR14762244,SRR14762251,Sc_Skin4,Sc_W3,"between donors, different condition",0.0663441177918944
+PASS-locus Jaccard,SRR14762244,SRR14762252,Sc_Skin4,Sc_W3,"between donors, different condition",0.0665649039655488
+PASS-locus Jaccard,SRR14762245,SRR14762246,Sc_Skin4,Sc_W1,"between donors, different condition",0.0534552676382575
+PASS-locus Jaccard,SRR14762245,SRR14762247,Sc_Skin4,Sc_W1,"between donors, different condition",0.0535402588724713
+PASS-locus Jaccard,SRR14762245,SRR14762248,Sc_Skin4,Sc_W2,"between donors, different condition",0.0644312712902013
+PASS-locus Jaccard,SRR14762245,SRR14762250,Sc_Skin4,Sc_W2,"between donors, different condition",0.0642127981186661
+PASS-locus Jaccard,SRR14762245,SRR14762251,Sc_Skin4,Sc_W3,"between donors, different condition",0.0663838134252335
+PASS-locus Jaccard,SRR14762245,SRR14762252,Sc_Skin4,Sc_W3,"between donors, different condition",0.0661907960539062
+PASS-locus Jaccard,SRR14762246,SRR14762247,Sc_W1,Sc_W1,within donor,0.2189916830800808
+PASS-locus Jaccard,SRR14762246,SRR14762248,Sc_W1,Sc_W2,"between donors, same condition",0.0814170754056769
+PASS-locus Jaccard,SRR14762246,SRR14762250,Sc_W1,Sc_W2,"between donors, same condition",0.0802852878797378
+PASS-locus Jaccard,SRR14762246,SRR14762251,Sc_W1,Sc_W3,"between donors, same condition",0.0866685405308301
+PASS-locus Jaccard,SRR14762246,SRR14762252,Sc_W1,Sc_W3,"between donors, same condition",0.0866353431212001
+PASS-locus Jaccard,SRR14762247,SRR14762248,Sc_W1,Sc_W2,"between donors, same condition",0.0811181984302713
+PASS-locus Jaccard,SRR14762247,SRR14762250,Sc_W1,Sc_W2,"between donors, same condition",0.0804740951363997
+PASS-locus Jaccard,SRR14762247,SRR14762251,Sc_W1,Sc_W3,"between donors, same condition",0.086742837324907
+PASS-locus Jaccard,SRR14762247,SRR14762252,Sc_W1,Sc_W3,"between donors, same condition",0.0864889158756306
+PASS-locus Jaccard,SRR14762248,SRR14762250,Sc_W2,Sc_W2,within donor,0.2321581452689976
+PASS-locus Jaccard,SRR14762248,SRR14762251,Sc_W2,Sc_W3,"between donors, same condition",0.0966165815946849
+PASS-locus Jaccard,SRR14762248,SRR14762252,Sc_W2,Sc_W3,"between donors, same condition",0.0967050556497568
+PASS-locus Jaccard,SRR14762250,SRR14762251,Sc_W2,Sc_W3,"between donors, same condition",0.0963653430604671
+PASS-locus Jaccard,SRR14762250,SRR14762252,Sc_W2,Sc_W3,"between donors, same condition",0.0962257002675953
+PASS-locus Jaccard,SRR14762251,SRR14762252,Sc_W3,Sc_W3,within donor,0.1996785446720594
+Genotype concordance (shared loci),SRR14762238,SRR14762239,Sc_Skin1,Sc_Skin1,within donor,0.9226394803344132
+Genotype concordance (shared loci),SRR14762238,SRR14762240,Sc_Skin1,Sc_Skin2,"between donors, same condition",0.7611254154768036
+Genotype concordance (shared loci),SRR14762238,SRR14762241,Sc_Skin1,Sc_Skin2,"between donors, same condition",0.7612066455666482
+Genotype concordance (shared loci),SRR14762238,SRR14762242,Sc_Skin1,Sc_Skin3,"between donors, same condition",0.7921466403819205
+Genotype concordance (shared loci),SRR14762238,SRR14762243,Sc_Skin1,Sc_Skin3,"between donors, same condition",0.7904434059858024
+Genotype concordance (shared loci),SRR14762238,SRR14762244,Sc_Skin1,Sc_Skin4,"between donors, same condition",0.7571774595711335
+Genotype concordance (shared loci),SRR14762238,SRR14762245,Sc_Skin1,Sc_Skin4,"between donors, same condition",0.7577081445731253
+Genotype concordance (shared loci),SRR14762238,SRR14762246,Sc_Skin1,Sc_W1,"between donors, different condition",0.812725979243388
+Genotype concordance (shared loci),SRR14762238,SRR14762247,Sc_Skin1,Sc_W1,"between donors, different condition",0.8128342245989305
+Genotype concordance (shared loci),SRR14762238,SRR14762248,Sc_Skin1,Sc_W2,"between donors, different condition",0.9080366128336608
+Genotype concordance (shared loci),SRR14762238,SRR14762250,Sc_Skin1,Sc_W2,"between donors, different condition",0.9074071963437012
+Genotype concordance (shared loci),SRR14762238,SRR14762251,Sc_Skin1,Sc_W3,"between donors, different condition",0.7921260786193672
+Genotype concordance (shared loci),SRR14762238,SRR14762252,Sc_Skin1,Sc_W3,"between donors, different condition",0.793555967102774
+Genotype concordance (shared loci),SRR14762239,SRR14762240,Sc_Skin1,Sc_Skin2,"between donors, same condition",0.7605385478442058
+Genotype concordance (shared loci),SRR14762239,SRR14762241,Sc_Skin1,Sc_Skin2,"between donors, same condition",0.7616631616669338
+Genotype concordance (shared loci),SRR14762239,SRR14762242,Sc_Skin1,Sc_Skin3,"between donors, same condition",0.7923468325051328
+Genotype concordance (shared loci),SRR14762239,SRR14762243,Sc_Skin1,Sc_Skin3,"between donors, same condition",0.7909016545160347
+Genotype concordance (shared loci),SRR14762239,SRR14762244,Sc_Skin1,Sc_Skin4,"between donors, same condition",0.7599652214443857
+Genotype concordance (shared loci),SRR14762239,SRR14762245,Sc_Skin1,Sc_Skin4,"between donors, same condition",0.7606112816095049
+Genotype concordance (shared loci),SRR14762239,SRR14762246,Sc_Skin1,Sc_W1,"between donors, different condition",0.8125357683891601
+Genotype concordance (shared loci),SRR14762239,SRR14762247,Sc_Skin1,Sc_W1,"between donors, different condition",0.8134387351778656
+Genotype concordance (shared loci),SRR14762239,SRR14762248,Sc_Skin1,Sc_W2,"between donors, different condition",0.9075836981843048
+Genotype concordance (shared loci),SRR14762239,SRR14762250,Sc_Skin1,Sc_W2,"between donors, different condition",0.9076536740444732
+Genotype concordance (shared loci),SRR14762239,SRR14762251,Sc_Skin1,Sc_W3,"between donors, different condition",0.7908369133175412
+Genotype concordance (shared loci),SRR14762239,SRR14762252,Sc_Skin1,Sc_W3,"between donors, different condition",0.7925030241884885
+Genotype concordance (shared loci),SRR14762240,SRR14762241,Sc_Skin2,Sc_Skin2,within donor,0.9018025331210258
+Genotype concordance (shared loci),SRR14762240,SRR14762242,Sc_Skin2,Sc_Skin3,"between donors, same condition",0.7891557886789454
+Genotype concordance (shared loci),SRR14762240,SRR14762243,Sc_Skin2,Sc_Skin3,"between donors, same condition",0.7888838105836298
+Genotype concordance (shared loci),SRR14762240,SRR14762244,Sc_Skin2,Sc_Skin4,"between donors, same condition",0.8161875583427081
+Genotype concordance (shared loci),SRR14762240,SRR14762245,Sc_Skin2,Sc_Skin4,"between donors, same condition",0.8164962019259525
+Genotype concordance (shared loci),SRR14762240,SRR14762246,Sc_Skin2,Sc_W1,"between donors, different condition",0.7657615257115963
+Genotype concordance (shared loci),SRR14762240,SRR14762247,Sc_Skin2,Sc_W1,"between donors, different condition",0.7664542442008667
+Genotype concordance (shared loci),SRR14762240,SRR14762248,Sc_Skin2,Sc_W2,"between donors, different condition",0.7722277890517771
+Genotype concordance (shared loci),SRR14762240,SRR14762250,Sc_Skin2,Sc_W2,"between donors, different condition",0.7713343282569617
+Genotype concordance (shared loci),SRR14762240,SRR14762251,Sc_Skin2,Sc_W3,"between donors, different condition",0.763149428985041
+Genotype concordance (shared loci),SRR14762240,SRR14762252,Sc_Skin2,Sc_W3,"between donors, different condition",0.7663595007581944
+Genotype concordance (shared loci),SRR14762241,SRR14762242,Sc_Skin2,Sc_Skin3,"between donors, same condition",0.7899355247650269
+Genotype concordance (shared loci),SRR14762241,SRR14762243,Sc_Skin2,Sc_Skin3,"between donors, same condition",0.78885560691119
+Genotype concordance (shared loci),SRR14762241,SRR14762244,Sc_Skin2,Sc_Skin4,"between donors, same condition",0.8150313252434744
+Genotype concordance (shared loci),SRR14762241,SRR14762245,Sc_Skin2,Sc_Skin4,"between donors, same condition",0.8156388378874608
+Genotype concordance (shared loci),SRR14762241,SRR14762246,Sc_Skin2,Sc_W1,"between donors, different condition",0.769360734801708
+Genotype concordance (shared loci),SRR14762241,SRR14762247,Sc_Skin2,Sc_W1,"between donors, different condition",0.7678369080310748
+Genotype concordance (shared loci),SRR14762241,SRR14762248,Sc_Skin2,Sc_W2,"between donors, different condition",0.7713398380313274
+Genotype concordance (shared loci),SRR14762241,SRR14762250,Sc_Skin2,Sc_W2,"between donors, different condition",0.7714942879937533
+Genotype concordance (shared loci),SRR14762241,SRR14762251,Sc_Skin2,Sc_W3,"between donors, different condition",0.7672824549868046
+Genotype concordance (shared loci),SRR14762241,SRR14762252,Sc_Skin2,Sc_W3,"between donors, different condition",0.7655419802033606
+Genotype concordance (shared loci),SRR14762242,SRR14762243,Sc_Skin3,Sc_Skin3,within donor,0.914415881108755
+Genotype concordance (shared loci),SRR14762242,SRR14762244,Sc_Skin3,Sc_Skin4,"between donors, same condition",0.8004789289084338
+Genotype concordance (shared loci),SRR14762242,SRR14762245,Sc_Skin3,Sc_Skin4,"between donors, same condition",0.8007875281260045
+Genotype concordance (shared loci),SRR14762242,SRR14762246,Sc_Skin3,Sc_W1,"between donors, different condition",0.7885712808515314
+Genotype concordance (shared loci),SRR14762242,SRR14762247,Sc_Skin3,Sc_W1,"between donors, different condition",0.7887825634903826
+Genotype concordance (shared loci),SRR14762242,SRR14762248,Sc_Skin3,Sc_W2,"between donors, different condition",0.8056556351397998
+Genotype concordance (shared loci),SRR14762242,SRR14762250,Sc_Skin3,Sc_W2,"between donors, different condition",0.807412755193434
+Genotype concordance (shared loci),SRR14762242,SRR14762251,Sc_Skin3,Sc_W3,"between donors, different condition",0.790224361853096
+Genotype concordance (shared loci),SRR14762242,SRR14762252,Sc_Skin3,Sc_W3,"between donors, different condition",0.7912055772421779
+Genotype concordance (shared loci),SRR14762243,SRR14762244,Sc_Skin3,Sc_Skin4,"between donors, same condition",0.802434980004079
+Genotype concordance (shared loci),SRR14762243,SRR14762245,Sc_Skin3,Sc_Skin4,"between donors, same condition",0.8014312067229287
+Genotype concordance (shared loci),SRR14762243,SRR14762246,Sc_Skin3,Sc_W1,"between donors, different condition",0.7890408308069405
+Genotype concordance (shared loci),SRR14762243,SRR14762247,Sc_Skin3,Sc_W1,"between donors, different condition",0.7883988773107075
+Genotype concordance (shared loci),SRR14762243,SRR14762248,Sc_Skin3,Sc_W2,"between donors, different condition",0.8051012250718407
+Genotype concordance (shared loci),SRR14762243,SRR14762250,Sc_Skin3,Sc_W2,"between donors, different condition",0.8053592766995323
+Genotype concordance (shared loci),SRR14762243,SRR14762251,Sc_Skin3,Sc_W3,"between donors, different condition",0.7900907287490394
+Genotype concordance (shared loci),SRR14762243,SRR14762252,Sc_Skin3,Sc_W3,"between donors, different condition",0.7897989531287176
+Genotype concordance (shared loci),SRR14762244,SRR14762245,Sc_Skin4,Sc_Skin4,within donor,0.9217684100052476
+Genotype concordance (shared loci),SRR14762244,SRR14762246,Sc_Skin4,Sc_W1,"between donors, different condition",0.7811944112034671
+Genotype concordance (shared loci),SRR14762244,SRR14762247,Sc_Skin4,Sc_W1,"between donors, different condition",0.7831935892573255
+Genotype concordance (shared loci),SRR14762244,SRR14762248,Sc_Skin4,Sc_W2,"between donors, different condition",0.7710746351779518
+Genotype concordance (shared loci),SRR14762244,SRR14762250,Sc_Skin4,Sc_W2,"between donors, different condition",0.7723881728582259
+Genotype concordance (shared loci),SRR14762244,SRR14762251,Sc_Skin4,Sc_W3,"between donors, different condition",0.7724104657635925
+Genotype concordance (shared loci),SRR14762244,SRR14762252,Sc_Skin4,Sc_W3,"between donors, different condition",0.7729223767906087
+Genotype concordance (shared loci),SRR14762245,SRR14762246,Sc_Skin4,Sc_W1,"between donors, different condition",0.7827842599875131
+Genotype concordance (shared loci),SRR14762245,SRR14762247,Sc_Skin4,Sc_W1,"between donors, different condition",0.7841878965506135
+Genotype concordance (shared loci),SRR14762245,SRR14762248,Sc_Skin4,Sc_W2,"between donors, different condition",0.7727412982126058
+Genotype concordance (shared loci),SRR14762245,SRR14762250,Sc_Skin4,Sc_W2,"between donors, different condition",0.7731512047049895
+Genotype concordance (shared loci),SRR14762245,SRR14762251,Sc_Skin4,Sc_W3,"between donors, different condition",0.7726493570098174
+Genotype concordance (shared loci),SRR14762245,SRR14762252,Sc_Skin4,Sc_W3,"between donors, different condition",0.7729744587908414
+Genotype concordance (shared loci),SRR14762246,SRR14762247,Sc_W1,Sc_W1,within donor,0.9177588974872376
+Genotype concordance (shared loci),SRR14762246,SRR14762248,Sc_W1,Sc_W2,"between donors, same condition",0.8068764366874377
+Genotype concordance (shared loci),SRR14762246,SRR14762250,Sc_W1,Sc_W2,"between donors, same condition",0.8083964631434598
+Genotype concordance (shared loci),SRR14762246,SRR14762251,Sc_W1,Sc_W3,"between donors, same condition",0.8083232077764277
+Genotype concordance (shared loci),SRR14762246,SRR14762252,Sc_W1,Sc_W3,"between donors, same condition",0.8068690024548092
+Genotype concordance (shared loci),SRR14762247,SRR14762248,Sc_W1,Sc_W2,"between donors, same condition",0.8065869019398819
+Genotype concordance (shared loci),SRR14762247,SRR14762250,Sc_W1,Sc_W2,"between donors, same condition",0.80719906181433
+Genotype concordance (shared loci),SRR14762247,SRR14762251,Sc_W1,Sc_W3,"between donors, same condition",0.8068831018827021
+Genotype concordance (shared loci),SRR14762247,SRR14762252,Sc_W1,Sc_W3,"between donors, same condition",0.8068363824031891
+Genotype concordance (shared loci),SRR14762248,SRR14762250,Sc_W2,Sc_W2,within donor,0.9284253830110673
+Genotype concordance (shared loci),SRR14762248,SRR14762251,Sc_W2,Sc_W3,"between donors, same condition",0.814212064231927
+Genotype concordance (shared loci),SRR14762248,SRR14762252,Sc_W2,Sc_W3,"between donors, same condition",0.8143319606245458
+Genotype concordance (shared loci),SRR14762250,SRR14762251,Sc_W2,Sc_W3,"between donors, same condition",0.8145899898236243
+Genotype concordance (shared loci),SRR14762250,SRR14762252,Sc_W2,Sc_W3,"between donors, same condition",0.8147568811823991
+Genotype concordance (shared loci),SRR14762251,SRR14762252,Sc_W3,Sc_W3,within donor,0.9249186567622322
+Gene-burden Spearman (cohort filter),SRR14762238,SRR14762239,Sc_Skin1,Sc_Skin1,within donor,0.9454946387947502
+Gene-burden Spearman (cohort filter),SRR14762238,SRR14762240,Sc_Skin1,Sc_Skin2,"between donors, same condition",0.8174363383520454
+Gene-burden Spearman (cohort filter),SRR14762238,SRR14762241,Sc_Skin1,Sc_Skin2,"between donors, same condition",0.8202810001933444
+Gene-burden Spearman (cohort filter),SRR14762238,SRR14762242,Sc_Skin1,Sc_Skin3,"between donors, same condition",0.8441947180497502
+Gene-burden Spearman (cohort filter),SRR14762238,SRR14762243,Sc_Skin1,Sc_Skin3,"between donors, same condition",0.8450346445805709
+Gene-burden Spearman (cohort filter),SRR14762238,SRR14762244,Sc_Skin1,Sc_Skin4,"between donors, same condition",0.8073015500278212
+Gene-burden Spearman (cohort filter),SRR14762238,SRR14762245,Sc_Skin1,Sc_Skin4,"between donors, same condition",0.8099345369658533
+Gene-burden Spearman (cohort filter),SRR14762238,SRR14762246,Sc_Skin1,Sc_W1,"between donors, different condition",0.8563314012211503
+Gene-burden Spearman (cohort filter),SRR14762238,SRR14762247,Sc_Skin1,Sc_W1,"between donors, different condition",0.8580304663344409
+Gene-burden Spearman (cohort filter),SRR14762238,SRR14762248,Sc_Skin1,Sc_W2,"between donors, different condition",0.912149830343552
+Gene-burden Spearman (cohort filter),SRR14762238,SRR14762250,Sc_Skin1,Sc_W2,"between donors, different condition",0.910506532505506
+Gene-burden Spearman (cohort filter),SRR14762238,SRR14762251,Sc_Skin1,Sc_W3,"between donors, different condition",0.840374149471008
+Gene-burden Spearman (cohort filter),SRR14762238,SRR14762252,Sc_Skin1,Sc_W3,"between donors, different condition",0.8405566684259606
+Gene-burden Spearman (cohort filter),SRR14762239,SRR14762240,Sc_Skin1,Sc_Skin2,"between donors, same condition",0.8195934930144044
+Gene-burden Spearman (cohort filter),SRR14762239,SRR14762241,Sc_Skin1,Sc_Skin2,"between donors, same condition",0.821806656851203
+Gene-burden Spearman (cohort filter),SRR14762239,SRR14762242,Sc_Skin1,Sc_Skin3,"between donors, same condition",0.846186740436558
+Gene-burden Spearman (cohort filter),SRR14762239,SRR14762243,Sc_Skin1,Sc_Skin3,"between donors, same condition",0.8442659200443414
+Gene-burden Spearman (cohort filter),SRR14762239,SRR14762244,Sc_Skin1,Sc_Skin4,"between donors, same condition",0.8086514704058965
+Gene-burden Spearman (cohort filter),SRR14762239,SRR14762245,Sc_Skin1,Sc_Skin4,"between donors, same condition",0.8121093409890903
+Gene-burden Spearman (cohort filter),SRR14762239,SRR14762246,Sc_Skin1,Sc_W1,"between donors, different condition",0.8560896520730928
+Gene-burden Spearman (cohort filter),SRR14762239,SRR14762247,Sc_Skin1,Sc_W1,"between donors, different condition",0.8584676090444924
+Gene-burden Spearman (cohort filter),SRR14762239,SRR14762248,Sc_Skin1,Sc_W2,"between donors, different condition",0.9131666448519264
+Gene-burden Spearman (cohort filter),SRR14762239,SRR14762250,Sc_Skin1,Sc_W2,"between donors, different condition",0.9113748089098092
+Gene-burden Spearman (cohort filter),SRR14762239,SRR14762251,Sc_Skin1,Sc_W3,"between donors, different condition",0.8418798585368181
+Gene-burden Spearman (cohort filter),SRR14762239,SRR14762252,Sc_Skin1,Sc_W3,"between donors, different condition",0.8416103915824571
+Gene-burden Spearman (cohort filter),SRR14762240,SRR14762241,Sc_Skin2,Sc_Skin2,within donor,0.8982162001022771
+Gene-burden Spearman (cohort filter),SRR14762240,SRR14762242,Sc_Skin2,Sc_Skin3,"between donors, same condition",0.8249555049525725
+Gene-burden Spearman (cohort filter),SRR14762240,SRR14762243,Sc_Skin2,Sc_Skin3,"between donors, same condition",0.8259315684363682
+Gene-burden Spearman (cohort filter),SRR14762240,SRR14762244,Sc_Skin2,Sc_Skin4,"between donors, same condition",0.8101537884422337
+Gene-burden Spearman (cohort filter),SRR14762240,SRR14762245,Sc_Skin2,Sc_Skin4,"between donors, same condition",0.8092708940271222
+Gene-burden Spearman (cohort filter),SRR14762240,SRR14762246,Sc_Skin2,Sc_W1,"between donors, different condition",0.7999600490003905
+Gene-burden Spearman (cohort filter),SRR14762240,SRR14762247,Sc_Skin2,Sc_W1,"between donors, different condition",0.8008068822337812
+Gene-burden Spearman (cohort filter),SRR14762240,SRR14762248,Sc_Skin2,Sc_W2,"between donors, different condition",0.8253966415365518
+Gene-burden Spearman (cohort filter),SRR14762240,SRR14762250,Sc_Skin2,Sc_W2,"between donors, different condition",0.8275858680213094
+Gene-burden Spearman (cohort filter),SRR14762240,SRR14762251,Sc_Skin2,Sc_W3,"between donors, different condition",0.8136464539455462
+Gene-burden Spearman (cohort filter),SRR14762240,SRR14762252,Sc_Skin2,Sc_W3,"between donors, different condition",0.8137172128380339
+Gene-burden Spearman (cohort filter),SRR14762241,SRR14762242,Sc_Skin2,Sc_Skin3,"between donors, same condition",0.827063524062272
+Gene-burden Spearman (cohort filter),SRR14762241,SRR14762243,Sc_Skin2,Sc_Skin3,"between donors, same condition",0.8270578461122914
+Gene-burden Spearman (cohort filter),SRR14762241,SRR14762244,Sc_Skin2,Sc_Skin4,"between donors, same condition",0.8118622390852556
+Gene-burden Spearman (cohort filter),SRR14762241,SRR14762245,Sc_Skin2,Sc_Skin4,"between donors, same condition",0.8110617036005979
+Gene-burden Spearman (cohort filter),SRR14762241,SRR14762246,Sc_Skin2,Sc_W1,"between donors, different condition",0.8014976538421525
+Gene-burden Spearman (cohort filter),SRR14762241,SRR14762247,Sc_Skin2,Sc_W1,"between donors, different condition",0.8035409624917237
+Gene-burden Spearman (cohort filter),SRR14762241,SRR14762248,Sc_Skin2,Sc_W2,"between donors, different condition",0.8294915989622081
+Gene-burden Spearman (cohort filter),SRR14762241,SRR14762250,Sc_Skin2,Sc_W2,"between donors, different condition",0.8302244417188822
+Gene-burden Spearman (cohort filter),SRR14762241,SRR14762251,Sc_Skin2,Sc_W3,"between donors, different condition",0.8151132229976588
+Gene-burden Spearman (cohort filter),SRR14762241,SRR14762252,Sc_Skin2,Sc_W3,"between donors, different condition",0.814926212593593
+Gene-burden Spearman (cohort filter),SRR14762242,SRR14762243,Sc_Skin3,Sc_Skin3,within donor,0.92577588218443
+Gene-burden Spearman (cohort filter),SRR14762242,SRR14762244,Sc_Skin3,Sc_Skin4,"between donors, same condition",0.8272149083688917
+Gene-burden Spearman (cohort filter),SRR14762242,SRR14762245,Sc_Skin3,Sc_Skin4,"between donors, same condition",0.8264404766834568
+Gene-burden Spearman (cohort filter),SRR14762242,SRR14762246,Sc_Skin3,Sc_W1,"between donors, different condition",0.8306507491717735
+Gene-burden Spearman (cohort filter),SRR14762242,SRR14762247,Sc_Skin3,Sc_W1,"between donors, different condition",0.8329027615200909
+Gene-burden Spearman (cohort filter),SRR14762242,SRR14762248,Sc_Skin3,Sc_W2,"between donors, different condition",0.8529315593270794
+Gene-burden Spearman (cohort filter),SRR14762242,SRR14762250,Sc_Skin3,Sc_W2,"between donors, different condition",0.8551861247362565
+Gene-burden Spearman (cohort filter),SRR14762242,SRR14762251,Sc_Skin3,Sc_W3,"between donors, different condition",0.8382027408185728
+Gene-burden Spearman (cohort filter),SRR14762242,SRR14762252,Sc_Skin3,Sc_W3,"between donors, different condition",0.8377288333037933
+Gene-burden Spearman (cohort filter),SRR14762243,SRR14762244,Sc_Skin3,Sc_Skin4,"between donors, same condition",0.8275193863906556
+Gene-burden Spearman (cohort filter),SRR14762243,SRR14762245,Sc_Skin3,Sc_Skin4,"between donors, same condition",0.8294903273084024
+Gene-burden Spearman (cohort filter),SRR14762243,SRR14762246,Sc_Skin3,Sc_W1,"between donors, different condition",0.8331059268812147
+Gene-burden Spearman (cohort filter),SRR14762243,SRR14762247,Sc_Skin3,Sc_W1,"between donors, different condition",0.8325881810141476
+Gene-burden Spearman (cohort filter),SRR14762243,SRR14762248,Sc_Skin3,Sc_W2,"between donors, different condition",0.851144042885128
+Gene-burden Spearman (cohort filter),SRR14762243,SRR14762250,Sc_Skin3,Sc_W2,"between donors, different condition",0.853741750564636
+Gene-burden Spearman (cohort filter),SRR14762243,SRR14762251,Sc_Skin3,Sc_W3,"between donors, different condition",0.8384348111678305
+Gene-burden Spearman (cohort filter),SRR14762243,SRR14762252,Sc_Skin3,Sc_W3,"between donors, different condition",0.8368508927243457
+Gene-burden Spearman (cohort filter),SRR14762244,SRR14762245,Sc_Skin4,Sc_Skin4,within donor,0.9175495645586956
+Gene-burden Spearman (cohort filter),SRR14762244,SRR14762246,Sc_Skin4,Sc_W1,"between donors, different condition",0.8113424875321447
+Gene-burden Spearman (cohort filter),SRR14762244,SRR14762247,Sc_Skin4,Sc_W1,"between donors, different condition",0.8118575271394722
+Gene-burden Spearman (cohort filter),SRR14762244,SRR14762248,Sc_Skin4,Sc_W2,"between donors, different condition",0.8228375959989844
+Gene-burden Spearman (cohort filter),SRR14762244,SRR14762250,Sc_Skin4,Sc_W2,"between donors, different condition",0.8251726534973283
+Gene-burden Spearman (cohort filter),SRR14762244,SRR14762251,Sc_Skin4,Sc_W3,"between donors, different condition",0.8239916842465671
+Gene-burden Spearman (cohort filter),SRR14762244,SRR14762252,Sc_Skin4,Sc_W3,"between donors, different condition",0.8257696942854603
+Gene-burden Spearman (cohort filter),SRR14762245,SRR14762246,Sc_Skin4,Sc_W1,"between donors, different condition",0.8118932936673807
+Gene-burden Spearman (cohort filter),SRR14762245,SRR14762247,Sc_Skin4,Sc_W1,"between donors, different condition",0.8133565968694617
+Gene-burden Spearman (cohort filter),SRR14762245,SRR14762248,Sc_Skin4,Sc_W2,"between donors, different condition",0.8277827357691262
+Gene-burden Spearman (cohort filter),SRR14762245,SRR14762250,Sc_Skin4,Sc_W2,"between donors, different condition",0.8290819651775249
+Gene-burden Spearman (cohort filter),SRR14762245,SRR14762251,Sc_Skin4,Sc_W3,"between donors, different condition",0.8256188102470154
+Gene-burden Spearman (cohort filter),SRR14762245,SRR14762252,Sc_Skin4,Sc_W3,"between donors, different condition",0.8273437992497412
+Gene-burden Spearman (cohort filter),SRR14762246,SRR14762247,Sc_W1,Sc_W1,within donor,0.936140723270645
+Gene-burden Spearman (cohort filter),SRR14762246,SRR14762248,Sc_W1,Sc_W2,"between donors, same condition",0.8533077264172765
+Gene-burden Spearman (cohort filter),SRR14762246,SRR14762250,Sc_W1,Sc_W2,"between donors, same condition",0.8521517815729285
+Gene-burden Spearman (cohort filter),SRR14762246,SRR14762251,Sc_W1,Sc_W3,"between donors, same condition",0.8566321550279228
+Gene-burden Spearman (cohort filter),SRR14762246,SRR14762252,Sc_W1,Sc_W3,"between donors, same condition",0.8565045287861298
+Gene-burden Spearman (cohort filter),SRR14762247,SRR14762248,Sc_W1,Sc_W2,"between donors, same condition",0.8547474389979874
+Gene-burden Spearman (cohort filter),SRR14762247,SRR14762250,Sc_W1,Sc_W2,"between donors, same condition",0.8538949157396459
+Gene-burden Spearman (cohort filter),SRR14762247,SRR14762251,Sc_W1,Sc_W3,"between donors, same condition",0.8592813976302123
+Gene-burden Spearman (cohort filter),SRR14762247,SRR14762252,Sc_W1,Sc_W3,"between donors, same condition",0.859362934319462
+Gene-burden Spearman (cohort filter),SRR14762248,SRR14762250,Sc_W2,Sc_W2,within donor,0.9422552688021332
+Gene-burden Spearman (cohort filter),SRR14762248,SRR14762251,Sc_W2,Sc_W3,"between donors, same condition",0.8544372595997769
+Gene-burden Spearman (cohort filter),SRR14762248,SRR14762252,Sc_W2,Sc_W3,"between donors, same condition",0.8526922163140522
+Gene-burden Spearman (cohort filter),SRR14762250,SRR14762251,Sc_W2,Sc_W3,"between donors, same condition",0.8537002850575629
+Gene-burden Spearman (cohort filter),SRR14762250,SRR14762252,Sc_W2,Sc_W3,"between donors, same condition",0.8516522719190681
+Gene-burden Spearman (cohort filter),SRR14762251,SRR14762252,Sc_W3,Sc_W3,within donor,0.9320346390963632
+Expression Pearson (log1p CPM),SRR14762238,SRR14762239,Sc_Skin1,Sc_Skin1,within donor,0.4830640044985611
+Expression Pearson (log1p CPM),SRR14762238,SRR14762240,Sc_Skin1,Sc_Skin2,"between donors, same condition",0.0847642041423517
+Expression Pearson (log1p CPM),SRR14762238,SRR14762241,Sc_Skin1,Sc_Skin2,"between donors, same condition",0.0477786596674159
+Expression Pearson (log1p CPM),SRR14762238,SRR14762242,Sc_Skin1,Sc_Skin3,"between donors, same condition",0.0960195057135545
+Expression Pearson (log1p CPM),SRR14762238,SRR14762243,Sc_Skin1,Sc_Skin3,"between donors, same condition",0.0965207443172943
+Expression Pearson (log1p CPM),SRR14762238,SRR14762244,Sc_Skin1,Sc_Skin4,"between donors, same condition",0.0506060104461505
+Expression Pearson (log1p CPM),SRR14762238,SRR14762245,Sc_Skin1,Sc_Skin4,"between donors, same condition",0.064735655046841
+Expression Pearson (log1p CPM),SRR14762238,SRR14762246,Sc_Skin1,Sc_W1,"between donors, different condition",0.11174364632552
+Expression Pearson (log1p CPM),SRR14762238,SRR14762247,Sc_Skin1,Sc_W1,"between donors, different condition",0.1191758339488122
+Expression Pearson (log1p CPM),SRR14762238,SRR14762248,Sc_Skin1,Sc_W2,"between donors, different condition",0.2912708873096626
+Expression Pearson (log1p CPM),SRR14762238,SRR14762250,Sc_Skin1,Sc_W2,"between donors, different condition",0.2838649684405455
+Expression Pearson (log1p CPM),SRR14762238,SRR14762251,Sc_Skin1,Sc_W3,"between donors, different condition",0.0912881562940857
+Expression Pearson (log1p CPM),SRR14762238,SRR14762252,Sc_Skin1,Sc_W3,"between donors, different condition",0.0953534813606384
+Expression Pearson (log1p CPM),SRR14762239,SRR14762240,Sc_Skin1,Sc_Skin2,"between donors, same condition",0.1167296462518194
+Expression Pearson (log1p CPM),SRR14762239,SRR14762241,Sc_Skin1,Sc_Skin2,"between donors, same condition",0.0588647922720165
+Expression Pearson (log1p CPM),SRR14762239,SRR14762242,Sc_Skin1,Sc_Skin3,"between donors, same condition",0.1287093846373374
+Expression Pearson (log1p CPM),SRR14762239,SRR14762243,Sc_Skin1,Sc_Skin3,"between donors, same condition",0.1225368602592342
+Expression Pearson (log1p CPM),SRR14762239,SRR14762244,Sc_Skin1,Sc_Skin4,"between donors, same condition",0.08080775391375
+Expression Pearson (log1p CPM),SRR14762239,SRR14762245,Sc_Skin1,Sc_Skin4,"between donors, same condition",0.0907768175231389
+Expression Pearson (log1p CPM),SRR14762239,SRR14762246,Sc_Skin1,Sc_W1,"between donors, different condition",0.1451195538659613
+Expression Pearson (log1p CPM),SRR14762239,SRR14762247,Sc_Skin1,Sc_W1,"between donors, different condition",0.1463299864130661
+Expression Pearson (log1p CPM),SRR14762239,SRR14762248,Sc_Skin1,Sc_W2,"between donors, different condition",0.3147396946558133
+Expression Pearson (log1p CPM),SRR14762239,SRR14762250,Sc_Skin1,Sc_W2,"between donors, different condition",0.3020045014171781
+Expression Pearson (log1p CPM),SRR14762239,SRR14762251,Sc_Skin1,Sc_W3,"between donors, different condition",0.1272179172376092
+Expression Pearson (log1p CPM),SRR14762239,SRR14762252,Sc_Skin1,Sc_W3,"between donors, different condition",0.1265282362400297
+Expression Pearson (log1p CPM),SRR14762240,SRR14762241,Sc_Skin2,Sc_Skin2,within donor,0.2380120846599976
+Expression Pearson (log1p CPM),SRR14762240,SRR14762242,Sc_Skin2,Sc_Skin3,"between donors, same condition",0.1408843445705327
+Expression Pearson (log1p CPM),SRR14762240,SRR14762243,Sc_Skin2,Sc_Skin3,"between donors, same condition",0.1421035181661127
+Expression Pearson (log1p CPM),SRR14762240,SRR14762244,Sc_Skin2,Sc_Skin4,"between donors, same condition",0.0651906973896885
+Expression Pearson (log1p CPM),SRR14762240,SRR14762245,Sc_Skin2,Sc_Skin4,"between donors, same condition",0.1124265598358888
+Expression Pearson (log1p CPM),SRR14762240,SRR14762246,Sc_Skin2,Sc_W1,"between donors, different condition",0.0748925461210328
+Expression Pearson (log1p CPM),SRR14762240,SRR14762247,Sc_Skin2,Sc_W1,"between donors, different condition",0.0835912094583483
+Expression Pearson (log1p CPM),SRR14762240,SRR14762248,Sc_Skin2,Sc_W2,"between donors, different condition",0.1149979866924806
+Expression Pearson (log1p CPM),SRR14762240,SRR14762250,Sc_Skin2,Sc_W2,"between donors, different condition",0.1292695233741133
+Expression Pearson (log1p CPM),SRR14762240,SRR14762251,Sc_Skin2,Sc_W3,"between donors, different condition",0.1074613482123888
+Expression Pearson (log1p CPM),SRR14762240,SRR14762252,Sc_Skin2,Sc_W3,"between donors, different condition",0.106864131555951
+Expression Pearson (log1p CPM),SRR14762241,SRR14762242,Sc_Skin2,Sc_Skin3,"between donors, same condition",0.0581349914231772
+Expression Pearson (log1p CPM),SRR14762241,SRR14762243,Sc_Skin2,Sc_Skin3,"between donors, same condition",0.0585864132269305
+Expression Pearson (log1p CPM),SRR14762241,SRR14762244,Sc_Skin2,Sc_Skin4,"between donors, same condition",0.0834318696810873
+Expression Pearson (log1p CPM),SRR14762241,SRR14762245,Sc_Skin2,Sc_Skin4,"between donors, same condition",0.0365372915758733
+Expression Pearson (log1p CPM),SRR14762241,SRR14762246,Sc_Skin2,Sc_W1,"between donors, different condition",0.0420500927133355
+Expression Pearson (log1p CPM),SRR14762241,SRR14762247,Sc_Skin2,Sc_W1,"between donors, different condition",0.0397988481152754
+Expression Pearson (log1p CPM),SRR14762241,SRR14762248,Sc_Skin2,Sc_W2,"between donors, different condition",0.0507753791883281
+Expression Pearson (log1p CPM),SRR14762241,SRR14762250,Sc_Skin2,Sc_W2,"between donors, different condition",0.0599233485674677
+Expression Pearson (log1p CPM),SRR14762241,SRR14762251,Sc_Skin2,Sc_W3,"between donors, different condition",0.0531429526589664
+Expression Pearson (log1p CPM),SRR14762241,SRR14762252,Sc_Skin2,Sc_W3,"between donors, different condition",0.0441631570802698
+Expression Pearson (log1p CPM),SRR14762242,SRR14762243,Sc_Skin3,Sc_Skin3,within donor,0.5792531289287449
+Expression Pearson (log1p CPM),SRR14762242,SRR14762244,Sc_Skin3,Sc_Skin4,"between donors, same condition",0.0808372852942485
+Expression Pearson (log1p CPM),SRR14762242,SRR14762245,Sc_Skin3,Sc_Skin4,"between donors, same condition",0.1253149948515973
+Expression Pearson (log1p CPM),SRR14762242,SRR14762246,Sc_Skin3,Sc_W1,"between donors, different condition",0.0792784397307294
+Expression Pearson (log1p CPM),SRR14762242,SRR14762247,Sc_Skin3,Sc_W1,"between donors, different condition",0.0882678626539307
+Expression Pearson (log1p CPM),SRR14762242,SRR14762248,Sc_Skin3,Sc_W2,"between donors, different condition",0.121652829282623
+Expression Pearson (log1p CPM),SRR14762242,SRR14762250,Sc_Skin3,Sc_W2,"between donors, different condition",0.1296729006099408
+Expression Pearson (log1p CPM),SRR14762242,SRR14762251,Sc_Skin3,Sc_W3,"between donors, different condition",0.1116821307670054
+Expression Pearson (log1p CPM),SRR14762242,SRR14762252,Sc_Skin3,Sc_W3,"between donors, different condition",0.1080818187677586
+Expression Pearson (log1p CPM),SRR14762243,SRR14762244,Sc_Skin3,Sc_Skin4,"between donors, same condition",0.0889235176215617
+Expression Pearson (log1p CPM),SRR14762243,SRR14762245,Sc_Skin3,Sc_Skin4,"between donors, same condition",0.1217098375659392
+Expression Pearson (log1p CPM),SRR14762243,SRR14762246,Sc_Skin3,Sc_W1,"between donors, different condition",0.0890775128880074
+Expression Pearson (log1p CPM),SRR14762243,SRR14762247,Sc_Skin3,Sc_W1,"between donors, different condition",0.0944873297814777
+Expression Pearson (log1p CPM),SRR14762243,SRR14762248,Sc_Skin3,Sc_W2,"between donors, different condition",0.1295210154968789
+Expression Pearson (log1p CPM),SRR14762243,SRR14762250,Sc_Skin3,Sc_W2,"between donors, different condition",0.1233650564773549
+Expression Pearson (log1p CPM),SRR14762243,SRR14762251,Sc_Skin3,Sc_W3,"between donors, different condition",0.1027874932243885
+Expression Pearson (log1p CPM),SRR14762243,SRR14762252,Sc_Skin3,Sc_W3,"between donors, different condition",0.1052597065513702
+Expression Pearson (log1p CPM),SRR14762244,SRR14762245,Sc_Skin4,Sc_Skin4,within donor,0.4461789966399652
+Expression Pearson (log1p CPM),SRR14762244,SRR14762246,Sc_Skin4,Sc_W1,"between donors, different condition",0.0767489422919793
+Expression Pearson (log1p CPM),SRR14762244,SRR14762247,Sc_Skin4,Sc_W1,"between donors, different condition",0.0849533543351363
+Expression Pearson (log1p CPM),SRR14762244,SRR14762248,Sc_Skin4,Sc_W2,"between donors, different condition",0.0988569176301627
+Expression Pearson (log1p CPM),SRR14762244,SRR14762250,Sc_Skin4,Sc_W2,"between donors, different condition",0.0946873839677699
+Expression Pearson (log1p CPM),SRR14762244,SRR14762251,Sc_Skin4,Sc_W3,"between donors, different condition",0.0922063364524714
+Expression Pearson (log1p CPM),SRR14762244,SRR14762252,Sc_Skin4,Sc_W3,"between donors, different condition",0.0961065442489402
+Expression Pearson (log1p CPM),SRR14762245,SRR14762246,Sc_Skin4,Sc_W1,"between donors, different condition",0.093942445789725
+Expression Pearson (log1p CPM),SRR14762245,SRR14762247,Sc_Skin4,Sc_W1,"between donors, different condition",0.1085275138196008
+Expression Pearson (log1p CPM),SRR14762245,SRR14762248,Sc_Skin4,Sc_W2,"between donors, different condition",0.1234704714928801
+Expression Pearson (log1p CPM),SRR14762245,SRR14762250,Sc_Skin4,Sc_W2,"between donors, different condition",0.1192842189621037
+Expression Pearson (log1p CPM),SRR14762245,SRR14762251,Sc_Skin4,Sc_W3,"between donors, different condition",0.1419461148184622
+Expression Pearson (log1p CPM),SRR14762245,SRR14762252,Sc_Skin4,Sc_W3,"between donors, different condition",0.1247691783912826
+Expression Pearson (log1p CPM),SRR14762246,SRR14762247,Sc_W1,Sc_W1,within donor,0.5658087784764382
+Expression Pearson (log1p CPM),SRR14762246,SRR14762248,Sc_W1,Sc_W2,"between donors, same condition",0.1460807917836382
+Expression Pearson (log1p CPM),SRR14762246,SRR14762250,Sc_W1,Sc_W2,"between donors, same condition",0.1426176656363051
+Expression Pearson (log1p CPM),SRR14762246,SRR14762251,Sc_W1,Sc_W3,"between donors, same condition",0.1631068289575087
+Expression Pearson (log1p CPM),SRR14762246,SRR14762252,Sc_W1,Sc_W3,"between donors, same condition",0.1669044579732737
+Expression Pearson (log1p CPM),SRR14762247,SRR14762248,Sc_W1,Sc_W2,"between donors, same condition",0.1457528521746303
+Expression Pearson (log1p CPM),SRR14762247,SRR14762250,Sc_W1,Sc_W2,"between donors, same condition",0.1424528913939267
+Expression Pearson (log1p CPM),SRR14762247,SRR14762251,Sc_W1,Sc_W3,"between donors, same condition",0.1725356821349745
+Expression Pearson (log1p CPM),SRR14762247,SRR14762252,Sc_W1,Sc_W3,"between donors, same condition",0.1697821442792278
+Expression Pearson (log1p CPM),SRR14762248,SRR14762250,Sc_W2,Sc_W2,within donor,0.4767763104514738
+Expression Pearson (log1p CPM),SRR14762248,SRR14762251,Sc_W2,Sc_W3,"between donors, same condition",0.1497116550268484
+Expression Pearson (log1p CPM),SRR14762248,SRR14762252,Sc_W2,Sc_W3,"between donors, same condition",0.1407460920432504
+Expression Pearson (log1p CPM),SRR14762250,SRR14762251,Sc_W2,Sc_W3,"between donors, same condition",0.1527652536375192
+Expression Pearson (log1p CPM),SRR14762250,SRR14762252,Sc_W2,Sc_W3,"between donors, same condition",0.1454583217964058
+Expression Pearson (log1p CPM),SRR14762251,SRR14762252,Sc_W3,Sc_W3,within donor,0.5853712025766575

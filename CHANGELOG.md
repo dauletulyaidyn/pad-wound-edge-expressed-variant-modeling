@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.0 - 2026-11-21
+
+Add `revision_2026-11-21/` for manuscript rev2, an identity and validation audit. It adds the supplementary DOCX, Tables S1–S6 as CSV, Figures 1–5 and analysis scripts light_00–05. The earlier classification claims are withdrawn. The historical package is unchanged.
+
 ## 1.0.2 - 2026-10-08
 
 Restrict supplementary directory and submission ZIPs to journal attachments; move historical output copies and editable sources outside it. Add explicit manuscript references to Supplementary Tables S1-S3. Verify main figure and table numbering.

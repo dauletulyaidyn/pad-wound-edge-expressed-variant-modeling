@@ -1,15 +1,18 @@
-# Machine Learning-Based Gene-Burden Modeling from scRNA-seq Expressed Variants for Wound-Edge Analysis in Peripheral Artery Disease
+# Expressed-Variant Gene-Burden Features from scRNA-seq Encode Individual Identity Rather Than Wound State
 
-Wound-edge expressed-variant modeling, pathway interpretation and cellular context.
+Support repository for article 2 (Herald of KBTU, submission #3290), version 1.1.0.
 
-Article-specific research support repository, version 1.0.2.
+**Current manuscript: revision 2 (2026-11-21). Its materials, figures and scripts are in [`revision_2026-11-21/`](revision_2026-11-21/).**
 
-**Status: historical source-artifact package; manuscript numerical results are not independently reproduced.**
+Revision 2 changes the paper from a wound-edge classification study into a methodological audit. It covers label-free run similarity, a genotype identity check and grouped validation against an exact permutation null. The earlier classification, enrichment and cell-landscape results (pooled balanced accuracy 0.980) are withdrawn. They did not reproduce once the labels were reconciled with GEO and validation was grouped by sample.
+
+## Historical package (manuscript rev0–rev1)
 
 The manuscript-specific numerical results have not been reproduced by this package. Archived source files and manuscript-reported claims are separated. Public GSE176415 metadata contain four unwounded-skin and three wound biological samples; the fourteen runs comprise eight UWE and six WE observations. Legacy labels disagree with this mapping. The archived CV uses run-level splits and fixed hyperparameters, not donor/GSM-grouped nested tuning. Cohort-frequency filtering uses the entire cohort. Archived PCA values, coefficients and some classifier summaries differ from the manuscript. No matched DNA or verified PAD clinical status is established by this dataset. All expressed variants and biological interpretations are exploratory. Reanalysis with reconciled labels and group-aware training-only preprocessing is required before publication claims can be considered reproducible.
 
 ## Contents
 
+- `revision_2026-11-21/`: rev2 supplementary materials, figures and analysis scripts (current).
 - `supplementary/`: Word supplement, supplementary methods, numbered Tables S1–S3 and source-result tables.
 - `archive/`: unchanged historical matrices, metrics, coefficients, metadata and dependency definitions.
 - `data/metadata_source_reconciled.csv`: source-derived run labels and GSM groups for future reanalysis.
