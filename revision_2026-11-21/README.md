@@ -1,6 +1,6 @@
 # Revision 2026-11-21 (manuscript rev2)
 
-The revised manuscript is titled *Expressed-variant gene-burden features from scRNA-seq encode individual identity rather than wound state: a genotype audit and exact permutation test of grouped machine-learning validation*. This folder holds its supplementary materials, figures and analysis scripts.
+The revised manuscript is titled *Sample identity as a source of data leakage in machine learning on scRNA-seq expressed-variant features: a genotype audit and exact permutation test of grouped validation*. This folder holds its supplementary materials, figures and analysis scripts.
 
 | Path | What it is |
 |---|---|

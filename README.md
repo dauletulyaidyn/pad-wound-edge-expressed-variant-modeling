@@ -1,4 +1,4 @@
-# Expressed-Variant Gene-Burden Features from scRNA-seq Encode Individual Identity Rather Than Wound State
+# Sample Identity as a Source of Data Leakage in Machine Learning on scRNA-seq Expressed-Variant Features
 
 Support repository for article 2 (Herald of KBTU, submission #3290), version 1.1.0.
 
